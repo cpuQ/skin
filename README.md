@@ -9,6 +9,8 @@ oh and make sure you play 100% background dim but like everyone does that so
 
 some hitsounds i just make but i might change it later
 
+(yes everythng is hand drawn / written) besides the main components ofc
+
 # how it looks
 
 ### here is how the idk what uits called but yeah
