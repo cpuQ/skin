@@ -31,3 +31,14 @@ it has a nice background foir the mods you used if any
 
 ### smoke is default because who even...
 ![smoke](https://github.com/cpuQ/skin/blob/main/2023-02-01%2017.43.43.png)
+
+### pause menu
+![pause](https://github.com/cpuQ/skin/blob/main/2023-02-01%2017.47.39.png)
+
+### yes there is custom mod icon
+![mods](https://github.com/cpuQ/skin/blob/main/2023-02-01%2017.47.58.png)
+
+### this is song select
+![song select](https://github.com/cpuQ/skin/blob/main/2023-02-01%2017.51.35.png)
+
+### actual gameplay
