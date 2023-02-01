@@ -14,6 +14,7 @@ some hitsounds i just make but i might change it later
 ### here is how the idk what uits called but yeah
 ![circle, 50, 100, cursor](https://github.com/cpuQ/skin/blob/main/2023-02-01%2017.28.28.png)
 ![miss and 100k](https://github.com/cpuQ/skin/blob/main/2023-02-01%2017.28.17.png)
+![trail](https://github.com/cpuQ/skin/blob/main/2023-02-01%2017.58.55.png)
 
 ### for some reason the hitsound is very quiet but idk if
 if that is just me or not but here is how i set mine
