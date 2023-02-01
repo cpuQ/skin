@@ -1,5 +1,5 @@
 # hello
-this is my osu skin [(dl here)](https://github.com/cpuQ/skin/releases)
+this is my osu skin [(download)](https://github.com/cpuQ/skin/releases/latest)
 
 it is made for ME so i dont expect you to like it or not but it is fine tuned to my preference.
 
