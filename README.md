@@ -16,8 +16,16 @@ if that is just me or not but here is how i set mine
 
 ![volume](https://github.com/cpuQ/skin/blob/main/2023-02-01%2017.27.25.png)
 
+### this is result screen
+it has a nice background foir the mods you used if any
+
+![result](https://github.com/cpuQ/skin/blob/main/2023-02-01%2017.43.35.png)
+
 ### here we see amazing snow graphics
 ![snow](https://github.com/cpuQ/skin/blob/main/2023-02-01%2017.27.35.png)
 
 ### here is the numbers and 0 is golden so you know youre always 100% acc even though you never will be
 ![numbers](https://github.com/cpuQ/skin/blob/main/2023-02-01%2017.29.06.png)
+
+### smoke is default because who even...
+![smoke](https://github.com/cpuQ/skin/blob/main/2023-02-01%2017.43.43.png)
