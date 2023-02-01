@@ -42,3 +42,4 @@ it has a nice background foir the mods you used if any
 ![song select](https://github.com/cpuQ/skin/blob/main/2023-02-01%2017.51.35.png)
 
 ### actual gameplay
+just literally download and play it yourself
