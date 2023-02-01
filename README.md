@@ -5,6 +5,8 @@ it is based off of the rafis hddt 2018 skin but heavily modified so you might re
 
 and it has other things from other skins idek anymore just use it
 
+oh and make sure you play 100% background dim but like everyone does that so
+
 # how it looks
 
 ### here is how the idk what uits called but yeah
