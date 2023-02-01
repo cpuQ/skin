@@ -1,7 +1,9 @@
 # hello
 this is my osu skin
 
-it is based off of the rafis hddt 2018 skin but heavily modified so you might recognize some of the hitsounds (i also stole muse dash sounds uwu owo)
+it is made for ME so i dont expect you to like it or not but it is fine tuned to my preference.
+
+it based off of the rafis hddt 2018 skin but heavily modified so you might recognize some of the hitsounds (i also stole muse dash sounds uwu owo)
 
 and it has other things from other skins idek anymore just use it
 
