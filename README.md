@@ -8,7 +8,7 @@ some hitsounds i just make but i might change it later
 
 ### ULTRA INSTINCT MODE
 theres a batch script in the !ultrainstinct folder of the skin.  
-all it does is it swaps the skin.ini with the one in the folder with the one in the skin and vice versa.  
+all it does is it swaps the assets in the folder with the one in the skins folder and vice versa.  
 you can switch between WHITE HIGH CONTRAST circles (recommended for super DT players) and the default colors  
 make sure you reload the skin in game for changes to take effect  
 
