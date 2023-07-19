@@ -1,52 +1,62 @@
 # hello
-this is my osu skin [(download)](https://github.com/cpuQ/skin/releases/latest)
-
-it is made for ME so i dont expect you to like it or not but it is fine tuned to my preference.
-
-it based off of the rafis hddt 2018 skin but heavily modified so you might recognize some of the hitsounds (i also stole muse dash sounds uwu owo)
-
-and it has other things from other skins idek anymore just use it
-
-oh and make sure you play 100% background dim but like everyone does that so
-
-some hitsounds i just make but i might change it later
-
-(yes everythng is hand drawn / written) besides the main components ofc
+this is my osu skin [(download)](https://github.com/cpuQ/skin/releases/latest)  
+it is made for ME so i dont expect you to like it or not but it is fine tuned to my preference.  
+it based off of the rafis hddt 2018 skin but heavily modified so you might recognize some of the assets (i also stole muse dash sounds)  
+and it also inspired from other things from other skins but idek anymore just use it  
+some hitsounds i just make but i might change it later  
+(yes everythng is hand drawn / written) besides the main components ofc  
 
 # how it looks
 
-### here is how the idk what uits called but yeah
-![circle, 50, 100, cursor](https://github.com/cpuQ/skin/blob/main/images/2023-02-01%2017.28.28.png)
-![miss and 100k](https://github.com/cpuQ/skin/blob/main/images/2023-02-01%2017.28.17.png)
-![trail](https://github.com/cpuQ/skin/blob/main/images/2023-02-01%2017.58.55.png)
+## here is how the idk what uits called but yeah
+![xd](https://github.com/cpuQ/skin/blob/main/images/2023-07-19%2013.13.49.png)
 
-## for some reason the hitsound is very quiet but idk if
-if that is just me or not but here is how i set mine
+## here is the circle numbers
+the little dots are useful for seeing stacked objects, especially with hidden mod! you will know once you play with it
+![numbers](https://github.com/cpuQ/skin/blob/main/images/numbers.png)
 
-![volume](https://github.com/cpuQ/skin/blob/main/images/2023-02-01%2017.27.25.png)
+## the cursor (recommended size is 0.85)
+a non disruptive trail so you can focus on where youre actually aiming...
+![cursor](https://github.com/cpuQ/skin/blob/main/images/cursor.png)
 
-## this is result screen
-it has a nice background foir the mods you used if any
+## recommended setting is to have equal volume for hitsound and music
+![volume](https://github.com/cpuQ/skin/blob/main/images/settings.png)
 
-![result](https://github.com/cpuQ/skin/blob/main/images/2023-02-01%2017.43.35.png)
+## score numbers
+0s are golden because you can know if youre always 100% accuracy or not, which, you will never be.
+![score](https://github.com/cpuQ/skin/blob/main/images/score.png)
+
+## sliders
+its easy to see, trust me. also i added an arrow so you dont get confused where the slider is headed in those super slow sliders at the end of the map because a lot of people break yknow...
+![slider](https://github.com/cpuQ/skin/blob/main/images/slider.png)
+
+## theres now smoke lol
+![smoke](https://github.com/cpuQ/skin/blob/main/images/smoke.png)
+
+## key overlay
+![key overlay](https://github.com/cpuQ/skin/blob/main/images/keyoverlay.png)
+
+## this is result screen, its beautiful
+![result](https://github.com/cpuQ/skin/blob/main/images/results.png)
+![ranking](https://github.com/cpuQ/skin/blob/main/images/ranking.png)
 
 ## here we see amazing snow graphics
-![snow](https://github.com/cpuQ/skin/blob/main/images/2023-02-01%2017.27.35.png)
+![snow](https://github.com/cpuQ/skin/blob/main/images/snow.png)
 
-## here is the numbers and 0 is golden so you know youre always 100% acc even though you never will be
-![numbers](https://github.com/cpuQ/skin/blob/main/images/2023-02-01%2017.29.06.png)
+## pause menu and fail screen
+![pause](https://github.com/cpuQ/skin/blob/main/images/pause.png)
+![fail](https://github.com/cpuQ/skin/blob/main/images/fail.png)
 
-## smoke is default because who even...
-![smoke](https://github.com/cpuQ/skin/blob/main/images/2023-02-01%2017.43.43.png)
-
-## pause menu
-![pause](https://github.com/cpuQ/skin/blob/main/images/2023-02-01%2017.47.39.png)
+## buttons things
+![no hover](https://github.com/cpuQ/skin/blob/main/images/buttons.png)  
+![no hover](https://github.com/cpuQ/skin/blob/main/images/hover.png)
 
 ## yes there is custom mod icon
-![mods](https://github.com/cpuQ/skin/blob/main/images/2023-02-01%2017.47.58.png)
+![mods](https://github.com/cpuQ/skin/blob/main/images/mods.png)
 
 ## this is song select
-![song select](https://github.com/cpuQ/skin/blob/main/images/2023-02-01%2017.51.35.png)
+(its not like i got lazy and didnt finish the top part)
+![song select](https://github.com/cpuQ/skin/blob/main/images/main.png)
 
 ## actual gameplay
 just literally download and play it yourself
