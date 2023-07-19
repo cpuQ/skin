@@ -1,25 +1,25 @@
 @echo off
 setlocal
 
-rem Set the paths to the two files
-set "file1=%~dp0..\skin.ini"
-set "file2=%~dp0skin.ini"
+rem set the paths to the two directories
+set "dir1=%~dp0.."
+set "dir2=%~dp0"
 
-rem Check if both files exist
-if not exist "%file1%" (
-    echo ERROR: %file1% not found.
-    exit /b 1
+rem find all files in this folder
+for %%F in ("%dir1%\*") do (
+    rem check if the file exists in skin folder
+    if exist "%dir2%\%%~nxF" (
+        rem swap files
+        echo swapping %%F and %dir2%\%%~nxF...
+        move /y "%%F" "%temp%\%%~nxF.tmp" >nul
+        move /y "%dir2%\%%~nxF" "%%F" >nul
+        move /y "%temp%\%%~nxF.tmp" "%dir2%\%%~nxF" >nul
+    )
 )
-if not exist "%file2%" (
-    echo ERROR: %file2% not found.
-    exit /b 1
-)
 
-rem Swap the two files
-echo Swapping %file1% and %file2%...
-move /y "%file1%" "%temp%\skin.tmp" >nul
-move /y "%file2%" "%file1%" >nul
-move /y "%temp%\skin.tmp" "%file2%" >nul
+echo files swapped
+echo make sure to reload the skin in game!
+echo press any key to close...
+pause >nul
 
-echo Done.
 endlocal
