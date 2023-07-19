@@ -6,7 +6,10 @@ and it also inspired from other things from other skins but idek anymore just us
 some hitsounds i just make but i might change it later  
 (yes everythng is hand drawn / written) besides the main components ofc  
 
-# how it looks
+### ULTRA INSTINCT MODE
+theres a batch script in the !ultrainstinct folder of the skin.  
+all it does is it swaps the skin.ini with the one in the folder with the one in the skin and vice versa.  
+you can switch between WHITE HIGH CONTRAST circles (recommended for super DT players) and the default colors  
 
 ## here is how the idk what uits called but yeah
 ![xd](https://github.com/cpuQ/skin/blob/main/images/2023-07-19%2013.13.49.png)
