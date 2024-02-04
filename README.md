@@ -4,13 +4,16 @@ it is made for ME so i dont expect you to like it or not but it is fine tuned to
 it based off of the rafis hddt 2018 skin but heavily modified so you might recognize some of the assets (i also stole muse dash sounds)  
 and it also inspired from other things from other skins but idek anymore just use it  
 some hitsounds i just make but i might change it later  
-(yes everythng is hand drawn / written) besides the main components ofc  
+(yes everythng is hand drawn / written) besides the main components ofc
 
-### ULTRA INSTINCT MODE
+### mode switch (temporary)
 theres a batch script in the !ultrainstinct folder of the skin.  
 all it does is it swaps the assets in the folder with the one in the skins folder and vice versa.  
 you can switch between WHITE HIGH CONTRAST circles (recommended for super DT players) and the default colors  
-make sure you reload the skin in game for changes to take effect  
+make sure you reload the skin in game for changes to take effect
+
+i will make a dedicated software for this so you can customize the skin more :P
+this is cringe HAHEHAHEFRHEWHAHRAFh whfaha IWGHFBhujalwbgf lawkb
 
 ## here is how the idk what uits called but yeah
 ![xd](https://github.com/cpuQ/skin/blob/main/images/2023-07-19%2013.13.49.png)
