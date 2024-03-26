@@ -1,19 +1,20 @@
 # hello
-this is my osu skin [(download)](https://github.com/cpuQ/skin/releases/latest)  
-it is made for ME so i dont expect you to like it or not but it is fine tuned to my preference.  
-it based off of the rafis hddt 2018 skin but heavily modified so you might recognize some of the assets (i also stole muse dash sounds)  
-and it also inspired from other things from other skins but idek anymore just use it  
-some hitsounds i just make but i might change it later  
-(yes everythng is hand drawn / written) besides the main components ofc
+this is my osu skin [(download here)](https://github.com/cpuQ/skin/releases/latest)  
+inspired by the rafis hddt 2018 skin so you may recognize some of the assets
+- (mostly) everythng is hand drawn and written
+- ui sounds are made by me
+- hitsounds are from the rafis skin
+- 1mb skin so its VERY fast and performance is 💯
+- theres dt and no mod skins :D
+- may look goofy but is actually well thought out pls notic
 
-### two skins
-theres dt and no mod skins :D
+⚠️ **images below are out of date! new skin has better stuffs c;**
 
 ## here is how the idk what uits called but yeah
 ![xd](https://github.com/cpuQ/skin/blob/main/images/2023-07-19%2013.13.49.png)
 
 ## here is the circle numbers
-the little dots are useful for seeing stacked objects, especially with hidden mod! you will know once you play with it
+the little dots are useful for seeing stacked objects, especially with hidden mod! you will know once you play with it (dt skin only)
 ![numbers](https://github.com/cpuQ/skin/blob/main/images/numbers.png)
 
 ## the cursor (recommended size is 0.85)
