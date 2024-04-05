@@ -8,7 +8,9 @@ inspired by the rafis hddt 2018 skin so you may recognize some of the assets
 - theres dt and no mod skins :D
 - may look goofy but is actually well thought out pls notic
 
- **images below are out of date! new skin has better stuffs c;**
+# update
+- **added a super duper dt skin, cpuQ RED**, [download RED](https://github.com/cpuQ/skin/releases/tag/red-1.0/latest)  
+- **images below are out of date! new skin has better stuffs c;**
 
 ## here is how the idk what uits called but yeah
 ![xd](https://github.com/cpuQ/skin/blob/main/images/2023-07-19%2013.13.49.png)
