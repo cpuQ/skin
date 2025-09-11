@@ -11,7 +11,7 @@ inspired by the rafis hddt 2018 skin so you may recognize some of the assets
 - has high res elements only for playfield elements
 
 # RED
-- experimental super duper ultra mega hd dt / tech / no mod skin! [(download cpuQ-RED)](https://github.com/cpuQ/skin/releases/tag/red-1.4)
+- experimental super duper ultra mega hd dt / tech / no mod skin! [(download cpuQ-RED)](https://github.com/cpuQ/skin/releases/tag/red-1.5)
 - 'triplestack' and 'instafade' versions available
 - under 1mb! if you remove 2x res it will be like 500kb lol
 
