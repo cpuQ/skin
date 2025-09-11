@@ -1,3 +1,5 @@
+i like red more so i think im going to only update that from now on
+
 # hello
 this is my osu skin [(download here)](https://github.com/cpuQ/skin/releases/latest)  
 inspired by the rafis hddt 2018 skin so you may recognize some of the assets
